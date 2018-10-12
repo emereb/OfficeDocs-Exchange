@@ -64,7 +64,7 @@ The main steps you perform for a cutover migration are shown in the following il
     
 4. The administrator migrates the mailboxes and then verifies the migration.
     
-5. Grant Office 365 licences to your users.
+5. Grant Office 365 licenses to your users.
     
 6. The administrator configures the domain to begin routing email directly to Office 365.
     
